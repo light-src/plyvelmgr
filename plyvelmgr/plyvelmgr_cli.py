@@ -15,7 +15,7 @@ def main():
     ]
 
     parser = argparse.ArgumentParser(
-        prog='dbsetter'
+        prog='plyvelmgr'
     )
 
     sub_parser = parser.add_subparsers(title='subcommands')
